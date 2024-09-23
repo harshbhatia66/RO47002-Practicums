@@ -3,3 +3,6 @@ env
 /.idea/
 practicum2/extra
 practicum2/images/mypen
+practicum3/extra/gaussian_vs_mixture_classifier.png
+practicum3/extra/reference_plot_gauss_density.png
+practicum3/extra/reference_plot_gauss_fit.png
