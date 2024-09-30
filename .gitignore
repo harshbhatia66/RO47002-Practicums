@@ -9,3 +9,11 @@ practicum2/images/lab_partner2
 practicum3/extra/gaussian_vs_mixture_classifier.png
 practicum3/extra/reference_plot_gauss_density.png
 practicum3/extra/reference_plot_gauss_fit.png
+
+practicum4/get_unstuck
+practicum4/__pycache__
+practicum4/hand_gestures
+practicum4/img
+
+.venv
+venv
